@@ -1,0 +1,29 @@
+Title: Manu
+
+----
+
+Subtitle: Has designed this site
+
+----
+
+Archivetitle: Want to read something else?
+
+----
+
+Archivepreviewtitle: Thoughts
+
+----
+
+Archivebuttontext: Show More
+
+----
+
+Description: 
+
+----
+
+Archivetext: Keep scrolling then
+
+----
+
+Text: A short description of the site
